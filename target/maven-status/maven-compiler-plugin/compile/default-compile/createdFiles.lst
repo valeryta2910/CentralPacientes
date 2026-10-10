@@ -1,0 +1,4 @@
+umariana\centralpacientes\modelo\CentralPacientes.class
+umariana\centralpacientes\modelo\Paciente.class
+umariana\centralpacientes\persistencia\ArchivoPacientes.class
+umariana\centralpacientes\servlet\PacienteServlet.class
